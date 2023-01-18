@@ -1,5 +1,5 @@
 # Lead_Scoring_codepro_edtech
-Lead_Scoring_codepro_edtech Mlops pipeline
+
 ## Problem Statement:
 
 CodePro is an EdTech startup that had a phenomenal seed A funding round. 
@@ -35,8 +35,13 @@ Python, HTML
 
 ### Libraries Used: 
 
-Numpy, Pandas, Sklearn, Airflow, MLFlow, Pycaret
-
+- library - pandas
+- library - sklearn
+- library - pycaret
+- library - sqlite3
+- library - mlflow
+- library - logging
+- tools - airflow
 
 
 ## Contributors
